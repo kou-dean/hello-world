@@ -43,3 +43,9 @@ _text_
 >> quote two
 >>> quote three
 >>>> quote four
+
+* item
+* item
+ * item
+ * item
+  * item
