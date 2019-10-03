@@ -1,5 +1,5 @@
 # hello-world
 my first repository
 
-- [] check
+- [ ] check
 - [x] item
