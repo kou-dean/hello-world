@@ -19,3 +19,14 @@ function abc(){
 `small block`
 
     big block
+
+*text*
+**text**
+_text_
+~text~
+
+
+> quote one 
+>> quote two
+>>> quote three
+>>>> quote four
