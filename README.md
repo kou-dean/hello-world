@@ -20,9 +20,14 @@ function abc(){
 
     big block
 
+text
+
 *text*
+
 **text**
+
 _text_
+
 ~text~
 
 
